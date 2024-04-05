@@ -17,8 +17,9 @@ and effectively implement diverse techniques:
 ### **Written Digit Recognition**   
 First task in NN  
 [View Git Repo](https://github.com/KatyKasilina/written_digit_recognition)    
----
 
+
+---
 ## EDA   
 ### **Witch trials on European map** 
 [Kaggle notebook](https://www.kaggle.com/code/abramova/witch-trials-on-european-map)  
