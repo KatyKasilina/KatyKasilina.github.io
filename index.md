@@ -1,35 +1,47 @@
-## Portfolio
+## Selected projects in data science, machine learning and NLP
+
+---
+## Base ML and Data Exploration Projects  
+ 
+### StumbleUpon Evergreen MLE
+The primary objective of this project was to establish a well-organized project structure 
+and effectively implement diverse techniques:  
+        - pytest with fixtures  
+        - config handling with Hydra  
+        - splitting train and inference
+        - apply shap and other approaches for model explanation   
+   
+[View Git Repo](https://github.com/KatyKasilina/StumbleUpon-Evergreen-Classification) 
+
+---
+### **Written Digit Recognition**   
+First task in NN  
+[View Git Repo](https://github.com/KatyKasilina/written_digit_recognition)    
+---
+
+## EDA   
+### **Witch trials on European map** 
+[Kaggle notebook](https://www.kaggle.com/code/abramova/witch-trials-on-european-map)  
 
 ---
 
-### Category Name 1 
+## NLP  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+###  **Hate Speech Detection from TF-IDF to Transformers.**  
+[Kaggle notebook](https://www.kaggle.com/code/abramova/hate-speech-detection-from-tf-idf-to-transformers)    
+[Notebook](https://github.com/KatyKasilina/projects/blob/main/nlp/hate-speech-detection-from-tf-idf-to-transformers.ipynb)    
+Explore various methods for detecting hateful speech within the dataset.    
+    - TF-IDF with Linear Regression model  
+    - Bert model with native Pytorch  
+    - Fine-tuning a model with the Trainer API   
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+###  **Transformer from scratch with Pytorch.**   
+[Kaggle notebook](https://www.kaggle.com/code/abramova/hate-speech-detection-from-tf-idf-to-transformers)     
+[Notebook](https://github.com/KatyKasilina/projects/blob/main/nlp/transformer-classification-from-scratch-pytorch.ipynb)    
+Implementation of base Transformer from the article ["Attention is all you need"](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)   
 
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+## Time Series 
