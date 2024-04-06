@@ -22,8 +22,10 @@ First task in NN
 ---
 ## EDA   
 ### **Witch trials on European map** 
+Exploration of dataset with number of witch trials in Europe in Middle Ages
 [Kaggle notebook](https://www.kaggle.com/code/abramova/witch-trials-on-european-map)  
 
+<img src="images/witchmap.png?raw=true"/>
 ---
 
 ## NLP  
