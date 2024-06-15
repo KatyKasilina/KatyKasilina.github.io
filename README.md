@@ -1,51 +1,59 @@
-## Developer Portfolio Landing Page Template
+## Selected projects in data science, machine learning and NLP
 
-### Introduction
+---
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## NLP  
 
-<img src="images/demo.gif?raw=true"/>
+###  **Hate Speech Detection from TF-IDF to Transformers.**  
+[Kaggle notebook](https://www.kaggle.com/code/abramova/hate-speech-detection-from-tf-idf-to-transformers)    
+[Notebook](https://github.com/KatyKasilina/projects/blob/main/nlp/hate-speech-detection-from-tf-idf-to-transformers.ipynb)    
+Explore various methods for detecting hateful speech within the dataset.    
+    - TF-IDF with Linear Regression model  
+    - Bert model with native Pytorch  
+    - Fine-tuning a model with the Trainer API   
 
-### Installation
+---
+###  **Transformer from scratch with Pytorch.**   
+[Kaggle notebook](https://www.kaggle.com/code/abramova/hate-speech-detection-from-tf-idf-to-transformers)     
+[Notebook](https://github.com/KatyKasilina/projects/blob/main/nlp/transformer-classification-from-scratch-pytorch.ipynb)    
+Implementation of base Transformer from the article ["Attention is all you need"](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)   
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+---
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## Base ML and Data Exploration Projects  
+ 
+### StumbleUpon Evergreen MLE
+The primary objective of this project was to establish a well-organized project structure 
+and effectively implement diverse techniques:  
+        - pytest with fixtures  
+        - config handling with Hydra  
+        - splitting train and inference
+        - apply shap and other approaches for model explanation   
+   
+[View Git Repo](https://github.com/KatyKasilina/StumbleUpon-Evergreen-Classification) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+### **Written Digit Recognition**   
+Two layer NN with Numpy vs Pytorch CNN
+[View Git Repo](https://github.com/KatyKasilina/written_digit_recognition)    
 
-### Markdown
+---
+## EDA   
+### **Witch trials on European map** 
+Exploration of dataset with number of witch trials in Europe in Middle Ages
+[Kaggle notebook](https://www.kaggle.com/code/abramova/witch-trials-on-european-map)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="images/witchmap.png?raw=true"/>
+---
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Time Series 
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Tableau
+[My small Tableau profile](https://public.tableau.com/app/profile/ekaterina.kasilina/vizzes)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
